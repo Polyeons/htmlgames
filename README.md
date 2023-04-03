@@ -1,3 +1,3 @@
 Repository to store HTML games
 
-I do not claim to own any of these games. Credit goes to the original developers.
+I do not take ownership to any of these games, all work is credited to their respective developer(s).
